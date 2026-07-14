@@ -18,4 +18,3 @@ void Ambulancia::mostrarInfo() const {
     RecursoVehicular::mostrarInfo();
     cout << endl;
 }
-
