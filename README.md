@@ -47,6 +47,6 @@ SGMR/
 ```
 ## Diagrama de clases
 
-``` Ver diagrama_clases_SGMR.png
-```
+Ver diagrama_clases_SGMR.png
+
 
