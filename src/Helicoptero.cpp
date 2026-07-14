@@ -18,3 +18,4 @@ void Helicoptero::mostrarInfo() const {
     RecursoVehicular::mostrarInfo();
     cout << endl;
 }
+
